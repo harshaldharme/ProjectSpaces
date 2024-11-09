@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="3sTKGsDONG29nez1MY9i">
-    <mxGraphModel>
+    <mxGraphModel dx="1360" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BogBn1DiWwc05DbvCXdq-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="360" as="sourcePoint" />
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-2" value="&lt;font style=&quot;font-size: 18px; background-color: rgb(255, 239, 15);&quot;&gt;&lt;b&gt;ADT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-3" value="VPN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-4" target="BogBn1DiWwc05DbvCXdq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-4" value="Hadoop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-5" target="BogBn1DiWwc05DbvCXdq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-5" value="Salesforce" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-7" value="onpremise" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-8" target="BogBn1DiWwc05DbvCXdq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-8" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="55" y="210" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-9" target="BogBn1DiWwc05DbvCXdq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-9" value="Transfer&#xa;Appliance" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE5LjkzMzEzNDA3ODk3OTQ5MiIgaGVpZ2h0PSIxMC44NjAwMDA2MTAzNTE1NjIiIHZpZXdCb3g9IjAuMDAwMDI2NTAxNDY0MTYyNzIwMzY3IC0zLjgxMjY2MDA1NDMzNjQ0NzVlLTggMTkuOTMzMTM0MDc4OTc5NDkyIDEwLjg2MDAwMDYxMDM1MTU2MiI+JiN4YTsJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4mI3hhOwkuc3Qwe2ZpbGw6IzQyODVmNDt9JiN4YTsJLnN0MXtmaWxsOiM2NjlkZjY7fSYjeGE7CS5zdDJ7ZmlsbDojYWVjYmZhO30mI3hhOwk8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xOS41NjMgMEg3LjE5M2EuMzIuMzIgMCAwIDAtLjMyLjMzdjIuMTZhLjMyLjMyIDAgMCAwIC4zMi4zMmgxMi4zN2EuMzIuMzIgMCAwIDAgLjM3LS4zMlYuMzNhLjMyLjMyIDAgMCAwLS4zMS0uMzN6TTguNDIzIDIuMTRhLjcuNyAwIDEgMSAuNy0uN2gwYS43LjcgMCAwIDEtLjcuN3ptMTEuMTQgMS45SDcuMTkzYS4zMi4zMiAwIDAgMC0uMzIuMzJ2Mi4xNWEuMzIuMzIgMCAwIDAgLjMyLjMyaDEyLjM3YS4zMi4zMiAwIDAgMCAuMzItLjMyVjQuMzZhLjMyLjMyIDAgMCAwLS4zMi0uMzJ6TTguNDIzIDYuMThhLjcuNyAwIDEgMSAuNy0uN2gwYS43LjcgMCAwIDEtLjcuN3ptMTEuMTkgMS44N0g3LjI1M2EuMzIuMzIgMCAwIDAtLjMyLjMydjIuMTZhLjMyLjMyIDAgMCAwIC4zMi4zM2gxMi4zNmEuMzIuMzIgMCAwIDAgLjMyLS4zM1Y4LjM3YS4zMi4zMiAwIDAgMC0uMzItLjMyem0tMTEuMTQgMi4xM2EuNzEuNzEgMCAwIDEtLjctLjcxLjcxLjcxIDAgMCAxIDEuNDEgMCAuNzEuNzEgMCAwIDEtLjcxLjcxeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik00LjY3MyAzLjI5aC0yLjEzYS44MTIuODEyIDAgMCAxLS4yMS0xLjYxaDIuMzRhLjgxNS44MTUgMCAxIDEgLjI2IDEuNjF6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTQuNjczIDYuMjRILjg1M2EuODIuODIgMCAwIDEtLjIxLTEuNjJoNGEuODIzLjgyMyAwIDAgMSAuMjkgMS42MnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNC42NzMgOS4xOGgtMi4xM2EuODEyLjgxMiAwIDAgMS0uMjEtMS42MWgyLjM0YS44MTUuODE1IDAgMCAxIC4yNiAxLjYxeiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="214" y="218" width="42" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-14" value="Cloud&#xa;Storage" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjAgMTYiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qye2ZpbGw6I2FlY2JmYTt9JiN4YTsJLnN0M3tmaWxsOiNmZmY7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTAgMGgyMHY3SDB6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTE4IDBoMnY3aC0yeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xOCA3bDItN2gtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMCAwaDJ2N0gweiIvPiYjeGE7CTxnIGNsYXNzPSJzdDMiPiYjeGE7CQk8cGF0aCBkPSJNNCAzaDZ2MUg0eiIvPiYjeGE7CQk8cmVjdCB4PSIxMyIgeT0iMiIgd2lkdGg9IjMiIGhlaWdodD0iMyIgcng9IjEuNSIvPiYjeGE7CTwvZz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMCA5aDIwdjdIMHoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTggOWgydjdoLTJ6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE4IDE2bDItN2gtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMCA5aDJ2N0gweiIvPiYjeGE7CTxnIGNsYXNzPSJzdDMiPiYjeGE7CQk8cGF0aCBkPSJNNCAxMmg2djFINHoiLz4mI3hhOwkJPHJlY3QgeD0iMTMiIHk9IjExIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIiByeD0iMS41Ii8+JiN4YTsJPC9nPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="300" y="213" width="42" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-16" value="Historical Data -&amp;nbsp;&lt;div&gt;1. Data size 150 TB Hadoop (replication 3) + 60 TB Oracle Informatica&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Saved data migration time by 70% with 1 month transfer time&lt;/div&gt;&lt;div&gt;3. Compression for huge files.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="205" y="270" width="215" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
