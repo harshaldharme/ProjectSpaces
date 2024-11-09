@@ -307,6 +307,15 @@
         <mxCell id="QcvPoNxLr8c_iiL7mWEt-30" value="1. Masked data reader role - Read with masked data&lt;br&gt;2. Fine grained reader role - Read actual data" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="880" y="1050" width="320" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QcvPoNxLr8c_iiL7mWEt-31" value="Mentoring Subordinates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="843.5" width="120" height="51.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QcvPoNxLr8c_iiL7mWEt-32" value="AFC &lt;br&gt;Data Tribe" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1282" y="815" width="90" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QcvPoNxLr8c_iiL7mWEt-45" value="1. Explain Cloud concepts in easy language&lt;br&gt;2. IAM analogy with company hiring candidates&lt;br&gt;3. VPC as apartment with multiple building&lt;br&gt;4. Small PoC / Presentation / Cross training&lt;br&gt;5. Spark vs BigQuery&lt;br&gt;6. Spark 1.6 vs 2.x" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="902.5" width="260" height="97.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
