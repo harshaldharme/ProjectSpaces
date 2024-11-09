@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="RIzxYW6cf2a8oOUlsFMP">
-    <mxGraphModel dx="1224" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,7 +313,7 @@
         <mxCell id="QcvPoNxLr8c_iiL7mWEt-32" value="AFC &lt;br&gt;Data Tribe" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1282" y="815" width="90" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="QcvPoNxLr8c_iiL7mWEt-45" value="1. Explain Cloud concepts in easy language&lt;br&gt;2. IAM analogy with company hiring candidates&lt;br&gt;3. VPC as apartment with multiple building&lt;br&gt;4. Small PoC / Presentation / Cross training&lt;br&gt;5. Spark vs BigQuery&lt;br&gt;6. Spark 1.6 vs 2.x" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="QcvPoNxLr8c_iiL7mWEt-45" value="1. Explain Cloud concepts in easy language&lt;br&gt;2. IAM analogy with company hiring candidates&lt;br&gt;3. VPC as apartment with multiple building&lt;br&gt;4. Small PoC / Presentation / Cross training&lt;br&gt;5. Spark vs BigQuery&lt;br&gt;6. Spark 1.6 vs 2.x&lt;br&gt;7. Tech Talks" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1320" y="902.5" width="260" height="97.5" as="geometry" />
         </mxCell>
       </root>
