@@ -47,7 +47,7 @@
           <mxGeometry x="300" y="213" width="42" height="34" as="geometry" />
         </mxCell>
         <mxCell id="BogBn1DiWwc05DbvCXdq-16" value="Historical Data -&amp;nbsp;&lt;div&gt;1. Data size 150 TB Hadoop (replication 3) + 60 TB Oracle Informatica&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Saved data migration time by 70% with 1 month transfer time&lt;/div&gt;&lt;div&gt;3. Compression for huge files.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="205" y="270" width="215" height="70" as="geometry" />
+          <mxGeometry x="205" y="270" width="215" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
