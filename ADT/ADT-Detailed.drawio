@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="3sTKGsDONG29nez1MY9i">
-    <mxGraphModel dx="1360" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1327" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -278,6 +278,26 @@
         </mxCell>
         <mxCell id="BogBn1DiWwc05DbvCXdq-85" value="Files Feed" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="537" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-86" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Partition column&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;reformatted&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="633" y="465" width="87" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-90" target="BogBn1DiWwc05DbvCXdq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-90" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;gzip compression&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;for Big tables&lt;/span&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="242" y="190" width="87" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-92" target="BogBn1DiWwc05DbvCXdq-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-92" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Audit table +&amp;nbsp; logging from composer, shell, python&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="542" y="522" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
