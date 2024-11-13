@@ -68,6 +68,9 @@
         <mxCell id="BogBn1DiWwc05DbvCXdq-16" value="Historical Data -&amp;nbsp;&lt;div&gt;1. Data size 150 TB Hadoop (replication 3) + 60 TB Oracle Informatica&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Saved data migration time by 70% with 1 month transfer time&lt;/div&gt;&lt;div&gt;3. Compression for huge files.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="165" width="225" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-19" target="BogBn1DiWwc05DbvCXdq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BogBn1DiWwc05DbvCXdq-19" value="Source&lt;br&gt;Systems&lt;br&gt;Sales Pilot" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="299.5" width="60" height="80" as="geometry" />
         </mxCell>
@@ -273,8 +276,11 @@
         <mxCell id="BogBn1DiWwc05DbvCXdq-82" value="Generic" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="321" y="562" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BogBn1DiWwc05DbvCXdq-83" value="Source OMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="BogBn1DiWwc05DbvCXdq-83" value="Source OMS / PMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-101" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-85" target="BogBn1DiWwc05DbvCXdq-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BogBn1DiWwc05DbvCXdq-85" value="Files Feed" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="537" width="80" height="70" as="geometry" />
@@ -298,6 +304,27 @@
         </mxCell>
         <mxCell id="BogBn1DiWwc05DbvCXdq-92" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Audit table +&amp;nbsp; logging from composer, shell, python&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="542" y="522" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-95" value="&lt;b&gt;NRT&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="402" y="692" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-96" value="&lt;b&gt;ORACLE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="303.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-98" target="BogBn1DiWwc05DbvCXdq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-98" value="&lt;b&gt;PG&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-19" target="BogBn1DiWwc05DbvCXdq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-103" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=27.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-83" target="BogBn1DiWwc05DbvCXdq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BogBn1DiWwc05DbvCXdq-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=20;entryPerimeter=0;" edge="1" parent="1" source="BogBn1DiWwc05DbvCXdq-85" target="BogBn1DiWwc05DbvCXdq-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
