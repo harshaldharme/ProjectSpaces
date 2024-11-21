@@ -16,9 +16,6 @@
         <mxCell id="7dp7OHDMAVVQQI8xo28f-7" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;container=0;" vertex="1" parent="7dp7OHDMAVVQQI8xo28f-26">
           <mxGeometry x="40" y="60" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="7dp7OHDMAVVQQI8xo28f-9" value="Batch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="7dp7OHDMAVVQQI8xo28f-26">
-          <mxGeometry x="35" y="40" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="7dp7OHDMAVVQQI8xo28f-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ffksCVZvfLPVLTZK4YQ5-2" target="7dp7OHDMAVVQQI8xo28f-59">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="357.1399999999999" as="targetPoint" />
