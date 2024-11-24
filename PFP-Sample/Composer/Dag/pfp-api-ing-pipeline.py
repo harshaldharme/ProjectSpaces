@@ -18,7 +18,7 @@ dag = DAG(
 )
 
 t1 = BashOperator(
-    task_id='Setup Environment',
+    task_id='Setup_Environment',
     bash_command='echo Hi',
     dag=dag,
     depends_on_past=False,
