@@ -52,5 +52,6 @@
     {"name": "medium", "type": "STRING"},
     {"name": "thumbnail", "type": "STRING"}
   ]},
-  {"name": "nat", "type": "STRING"}
+  {"name": "nat", "type": "STRING"},
+  {"name": "bq_ingestion_time", "type": "TIMESTAMP"}
 ]
