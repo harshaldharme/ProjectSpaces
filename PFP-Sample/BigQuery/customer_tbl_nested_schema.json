@@ -1,0 +1,57 @@
+[
+  {"name": "gender", "type": "STRING"},
+  {"name": "name", "type": "RECORD", "fields": [
+    {"name": "title", "type": "STRING"},
+    {"name": "first", "type": "STRING"},
+    {"name": "last", "type": "STRING"}
+  ]},
+  {"name": "location", "type": "RECORD", "fields": [
+    {"name": "street", "type": "RECORD", "fields": [
+      {"name": "number", "type": "INTEGER"},
+      {"name": "name", "type": "STRING"}
+    ]},
+    {"name": "city", "type": "STRING"},
+    {"name": "state", "type": "STRING"},
+    {"name": "country", "type": "STRING"},
+    {"name": "postcode", "type": "INTEGER"},
+    {"name": "coordinates", "type": "RECORD", "fields": [
+      {"name": "latitude", "type": "STRING"},
+      {"name": "longitude", "type": "STRING"}
+    ]},
+    {"name": "timezone", "type": "RECORD", "fields": [
+      {"name": "offset", "type": "STRING"},
+      {"name": "description", "type": "STRING"}
+    ]}
+  ]},
+  {"name": "email", "type": "STRING"},
+  {"name": "login", "type": "RECORD", "fields": [
+    {"name": "uuid", "type": "STRING"},
+    {"name": "username", "type": "STRING"},
+    {"name": "password", "type": "STRING"},
+    {"name": "salt", "type": "STRING"},
+    {"name": "md5", "type": "STRING"},
+    {"name": "sha1", "type": "STRING"},
+    {"name": "sha256", "type": "STRING"}
+  ]},
+  {"name": "dob", "type": "RECORD", "fields": [
+    {"name": "date", "type": "TIMESTAMP"},
+    {"name": "age", "type": "INTEGER"}
+  ]},
+  {"name": "registered", "type": "RECORD", "fields": [
+    {"name": "date", "type": "TIMESTAMP"},
+    {"name": "age", "type": "INTEGER"}
+  ]},
+  {"name": "phone", "type": "STRING"},
+  {"name": "cell", "type": "STRING"},
+  {"name": "id", "type": "RECORD", "fields": [
+    {"name": "name", "type": "STRING"},
+    {"name": "value", "type": "STRING"}
+  ]},
+  {"name": "picture", "type": "RECORD", "fields": [
+    {"name": "large", "type": "STRING"},
+    {"name": "medium", "type": "STRING"},
+    {"name": "thumbnail", "type": "STRING"}
+  ]},
+  {"name": "nat", "type": "STRING"},
+  {"name": "bq_ingestion_time", "type": "TIMESTAMP"}
+]
