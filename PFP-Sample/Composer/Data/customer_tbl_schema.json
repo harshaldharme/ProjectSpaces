@@ -1,0 +1,127 @@
+[
+    {
+        "name": "gender",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "title",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "first_name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "last_name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "street_number",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "street_name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "city",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "state",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "country",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "postcode",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "latitude",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "longitude",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "email",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "username",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "uuid",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "dob_date",
+        "type": "TIMESTAMP",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "dob_age",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "registered_date",
+        "type": "TIMESTAMP",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "registered_age",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "phone",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "cell",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "id_name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "id_value",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "nat",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "bq_ingestion_time",
+        "type": "TIMESTAMP",
+        "mode": "NULLABLE"
+    }
+]
