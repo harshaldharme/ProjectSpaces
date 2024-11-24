@@ -2,10 +2,11 @@ This page explains how to use the schema, create and populate a bigquery table f
 
 This is regular text, and this is a subscript: <sub>subscript text</sub>.
 
-Table creation command - 
+Dataset creation - 
+bq mk --dataset savvy-parser-441207-g9:pfp_landing_dataset
 
-gcloud bigquery tables create <project_id>:<dataset_id>.<table_name> \
-  --schema=schema.json \
-  --time_partitioning_type=DAY \
-  --time_partitioning_field=bq_ingestion_time \
-  --description="Table for storing RandomUser API data"
+Table creation - 
+bq mk --table \
+--schema ./customer_tbl_schema.json \
+savvy-parser-441207-g9:pfp_landing_dataset.pfp_landing_table
+
