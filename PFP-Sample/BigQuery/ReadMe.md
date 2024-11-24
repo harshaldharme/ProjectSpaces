@@ -1,4 +1,7 @@
 This page explains how to use the schema, create and populate a bigquery table for the sample pipeline.
+
+This is regular text, and this is a subscript: <sub>subscript text</sub>.
+
 Table creation command - 
 
 gcloud bigquery tables create <project_id>:<dataset_id>.<table_name> \
