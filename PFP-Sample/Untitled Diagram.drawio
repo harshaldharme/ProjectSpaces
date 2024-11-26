@@ -51,8 +51,8 @@
             <mxPoint x="460" y="-125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1749" value="Advertising" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="xAftQ-V8ujB6SN10Z2Ji-1817" vertex="1">
-          <mxGeometry x="397" y="310" width="150" height="70" as="geometry" />
+        <mxCell id="1749" value="Property Management Data" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="xAftQ-V8ujB6SN10Z2Ji-1817" vertex="1">
+          <mxGeometry x="404.5" y="310" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xAftQ-V8ujB6SN10Z2Ji-1823" value="Tenancy_Lease" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=3;fillColor=#f8cecc;fontFamily=Helvetica;fontSize=16;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="xAftQ-V8ujB6SN10Z2Ji-1817">
           <mxGeometry x="397" y="185" width="165" height="45" as="geometry" />
@@ -99,6 +99,24 @@
               <mxPoint x="686" y="140" />
               <mxPoint x="159" y="140" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xAftQ-V8ujB6SN10Z2Ji-1838" value="" style="rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xAftQ-V8ujB6SN10Z2Ji-1817" source="1749" target="xAftQ-V8ujB6SN10Z2Ji-1808">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="321" as="sourcePoint" />
+            <mxPoint x="235" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xAftQ-V8ujB6SN10Z2Ji-1839" value="" style="rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xAftQ-V8ujB6SN10Z2Ji-1817" source="1749" target="xAftQ-V8ujB6SN10Z2Ji-1823">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="747" y="308" as="sourcePoint" />
+            <mxPoint x="535" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xAftQ-V8ujB6SN10Z2Ji-1840" value="" style="rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=classic;startFill=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="xAftQ-V8ujB6SN10Z2Ji-1817" source="1749" target="xAftQ-V8ujB6SN10Z2Ji-1828">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="308" as="sourcePoint" />
+            <mxPoint x="490" y="242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xAftQ-V8ujB6SN10Z2Ji-1802" value="" style="group" vertex="1" connectable="0" parent="1">
