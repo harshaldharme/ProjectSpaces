@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H5XLg-262uGlo7exfHj2-720" value="&lt;font color=&quot;#000000&quot;&gt;PFP-LZ Data Plane&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#A9C4EB;dashPattern=1 2;strokeWidth=2;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="231.01000000000002" y="333" width="793.97" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="H5XLg-262uGlo7exfHj2-715" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#E6E6E6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="60" width="840" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="H5XLg-262uGlo7exfHj2-720" value="&lt;font color=&quot;#000000&quot;&gt;PFP-LZ Data Plane&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#A9C4EB;dashPattern=1 2;strokeWidth=2;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="231.01000000000002" y="333" width="793.97" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7dp7OHDMAVVQQI8xo28f-107" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="41" width="840" height="484" as="geometry" />
