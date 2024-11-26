@@ -14,7 +14,7 @@
           <mxGeometry x="160" y="41" width="842" height="484" as="geometry" />
         </mxCell>
         <mxCell id="7dp7OHDMAVVQQI8xo28f-137" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="7dp7OHDMAVVQQI8xo28f-107">
-          <mxGeometry x="82" y="310" width="760" height="100" as="geometry" />
+          <mxGeometry x="82" y="310" width="568" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7dp7OHDMAVVQQI8xo28f-93" value="" style="endArrow=none;html=1;rounded=0;dashed=1;strokeColor=#9E0000;" edge="1" parent="7dp7OHDMAVVQQI8xo28f-107">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -25,7 +25,7 @@
         <mxCell id="7dp7OHDMAVVQQI8xo28f-94" value="VPN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="7dp7OHDMAVVQQI8xo28f-107">
           <mxGeometry width="60" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="7dp7OHDMAVVQQI8xo28f-134" value="Pull" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7dp7OHDMAVVQQI8xo28f-107">
+        <mxCell id="7dp7OHDMAVVQQI8xo28f-134" value="Pull" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="7dp7OHDMAVVQQI8xo28f-107">
           <mxGeometry x="40" y="341" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7dp7OHDMAVVQQI8xo28f-143" value="&lt;b&gt;Composer Pipeline&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7dp7OHDMAVVQQI8xo28f-107">
