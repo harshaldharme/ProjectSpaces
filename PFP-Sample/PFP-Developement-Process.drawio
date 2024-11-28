@@ -7,6 +7,9 @@
         <mxCell id="H5XLg-262uGlo7exfHj2-715" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#E6E6E6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="60" width="900" height="510" as="geometry" />
         </mxCell>
+        <mxCell id="7Avl7wEmelP5YTSrgVpT-2" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#000000;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="100" width="830" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="H5XLg-262uGlo7exfHj2-720" value="&lt;font color=&quot;#000000&quot;&gt;PFP-LZ Data Plane&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#A9C4EB;dashPattern=1 2;strokeWidth=2;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="266.01" y="320" width="793.97" height="163" as="geometry" />
         </mxCell>
@@ -150,9 +153,6 @@
               <mxPoint x="1100" y="472" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7Avl7wEmelP5YTSrgVpT-2" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#000000;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="100" width="830" height="430" as="geometry" />
         </mxCell>
         <mxCell id="7dp7OHDMAVVQQI8xo28f-136" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="20" y="264" width="160" height="230" as="geometry" />
