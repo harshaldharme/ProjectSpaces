@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="H5XLg-262uGlo7exfHj2-715" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F5F5F5;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="120" width="1440" height="770" as="geometry" />
+          <mxGeometry x="200" y="120" width="1440" height="750" as="geometry" />
         </mxCell>
         <mxCell id="7Avl7wEmelP5YTSrgVpT-2" value="" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#000000;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="160" width="1350" height="660" as="geometry" />
