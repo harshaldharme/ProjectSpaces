@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.9.1">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="1224" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,6 +203,9 @@
         </mxCell>
         <mxCell id="CVS4CZeJGM4_yebflVYQ-16" value="VPC SC Perimeter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="940" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CVS4CZeJGM4_yebflVYQ-17" value="Remove storage layer rather add storage as backup export&lt;div&gt;cloud function to bigquery direct -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Mention streaming insert&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Remove composer and add scheduled Bigquery script every 15/30 mins&lt;/div&gt;&lt;div&gt;Remove composer&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
