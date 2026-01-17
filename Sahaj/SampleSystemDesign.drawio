@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="High Level">
     <mxGraphModel dx="1426" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="K7jiBtpq0XXxpTDCHwAG-17" edge="1" parent="1" source="K7jiBtpq0XXxpTDCHwAG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="K7jiBtpq0XXxpTDCHwAG-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K7jiBtpq0XXxpTDCHwAG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="Input Data &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sources&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dimension&amp;nbsp;&lt;/span&gt;Tables&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Riders&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Drivers&lt;/div&gt;&lt;div&gt;Vehicle&lt;/div&gt;&lt;div&gt;Date&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PubSub Events&lt;/div&gt;&lt;div&gt;Rider events&lt;/div&gt;&lt;div&gt;Driver events&lt;/div&gt;" vertex="1">
-          <mxGeometry height="200" width="130" x="250" y="200" as="geometry" />
+        <mxCell id="K7jiBtpq0XXxpTDCHwAG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="Input Data &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sources&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Database&amp;nbsp;&lt;/span&gt;Tables&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;Riders&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Drivers&lt;/div&gt;&lt;div&gt;Vehicle&lt;/div&gt;&lt;div&gt;Date&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PubSub Events&lt;/div&gt;&lt;div&gt;Rider events&lt;/div&gt;&lt;div&gt;Driver events&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Files&lt;/div&gt;&lt;div&gt;Documents&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="110" x="250" y="200" as="geometry" />
         </mxCell>
         <mxCell id="K7jiBtpq0XXxpTDCHwAG-10" edge="1" parent="1" source="K7jiBtpq0XXxpTDCHwAG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -64,6 +64,44 @@
         </mxCell>
         <mxCell id="K7jiBtpq0XXxpTDCHwAG-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Transactional&lt;div&gt;system&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="80" x="260" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="39IAf_hOpxTJb4s96Gd2" name="Detailed">
+    <mxGraphModel dx="1426" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-1" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#E0F2F1;" value="Google&amp;nbsp;" vertex="1">
+          <mxGeometry height="580" width="790" x="260" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-2" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="Rider" vertex="1">
+          <mxGeometry height="60" width="60" x="120" y="96" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-3" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="Driver" vertex="1">
+          <mxGeometry height="60" width="60" x="120" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-4" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="Trip" vertex="1">
+          <mxGeometry height="60" width="60" x="120" y="451" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-5" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="Vehicle" vertex="1">
+          <mxGeometry height="60" width="60" x="120" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-6" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="Payment" vertex="1">
+          <mxGeometry height="60" width="60" x="120" y="361" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-7" parent="1" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.files" value="" vertex="1">
+          <mxGeometry height="60" width="61.86" x="120" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Documents/Files" vertex="1">
+          <mxGeometry height="30" width="110" x="95" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-9" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#7f2443;fillColor3=#c996b6;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="120.93" y="636" as="geometry" />
+        </mxCell>
+        <mxCell id="OrKAhJmS7uf8qj4Ga6LA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="IOT Events from Driver" vertex="1">
+          <mxGeometry height="30" width="150" x="90" y="696" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
