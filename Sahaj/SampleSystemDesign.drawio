@@ -50,6 +50,21 @@
         <mxCell id="K7jiBtpq0XXxpTDCHwAG-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Visualizations" vertex="1">
           <mxGeometry height="80" width="120" x="1020" y="260" as="geometry" />
         </mxCell>
+        <mxCell id="K7jiBtpq0XXxpTDCHwAG-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="520" as="sourcePoint" />
+            <mxPoint x="410" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K7jiBtpq0XXxpTDCHwAG-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Not in scope" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="K7jiBtpq0XXxpTDCHwAG-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Analytical System" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="K7jiBtpq0XXxpTDCHwAG-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="Transactional&lt;div&gt;system&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="260" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
