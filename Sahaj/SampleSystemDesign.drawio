@@ -510,6 +510,14 @@
         <mxCell id="5vf92TskqooS2FDwb4ej-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;rounded=0;" value="VPN" vertex="1">
           <mxGeometry height="20" width="40" x="160" y="250" as="geometry" />
         </mxCell>
+        <mxCell id="5vf92TskqooS2FDwb4ej-6" edge="1" parent="1" source="ijCFIDC8EyswUe2IESuK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" target="ijCFIDC8EyswUe2IESuK-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="421" />
+              <mxPoint x="460" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
