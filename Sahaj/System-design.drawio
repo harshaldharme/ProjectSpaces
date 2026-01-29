@@ -1,9 +1,68 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6" pages="3">
   <diagram name="Page-1" id="MBc9AOww-HPimLNdgXM2">
-    <mxGraphModel>
+    <mxGraphModel dx="781" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M71a19jI-P9fc4F5Hc75-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;Vehicle Telemetry -&amp;nbsp;&lt;br&gt;Data - sensors, manifacturers,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Vehicle insurance&lt;/div&gt;&lt;div&gt;sensor based data&amp;nbsp;&lt;/div&gt;&lt;div&gt;accident remediations&lt;/div&gt;&lt;div&gt;Geolocation, breaks&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Collection data - RDBMS tables, Cloud - storage, Dabases&amp;nbsp;&lt;/div&gt;&lt;div&gt;IOT sensor - Collected - streaming messagng queue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Problem&lt;/div&gt;&lt;div&gt;Availability Consumer - How to ingest, process, make value to end customer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Set of analyticall capabili -&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Acccident Remediation - metrics around&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Insurance -&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Harsh driving&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;Volume Analysis&lt;/div&gt;&lt;div&gt;Total User -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Daily active user -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Daily hald daily batch - medium&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="320" x="70" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;Functional requirements&lt;/div&gt;&lt;div&gt;Processing data - transformation&lt;/div&gt;&lt;div&gt;Model archi - bronze, silvem gold&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Metrics&lt;/div&gt;&lt;div&gt;Aggregations&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Non-function&lt;/div&gt;&lt;div&gt;Scalability&lt;/div&gt;&lt;div&gt;Relaibilty&lt;/div&gt;&lt;div&gt;Restartbility&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="320" x="460" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="300" width="680" x="100" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Data sources" vertex="1">
+          <mxGeometry height="190" width="110" x="140" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-16" edge="1" parent="1" source="M71a19jI-P9fc4F5Hc75-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GCS" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-15" edge="1" parent="1" source="M71a19jI-P9fc4F5Hc75-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="M71a19jI-P9fc4F5Hc75-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="BigQuery" vertex="1">
+          <mxGeometry height="30" width="60" x="165" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GCP" vertex="1">
+          <mxGeometry height="20" width="100" x="120" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Processing Unit" vertex="1">
+          <mxGeometry height="190" width="110" x="350" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Raw" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-17" edge="1" parent="1" source="M71a19jI-P9fc4F5Hc75-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="M71a19jI-P9fc4F5Hc75-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bronze" vertex="1">
+          <mxGeometry height="30" width="60" x="375" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-18" edge="1" parent="1" source="M71a19jI-P9fc4F5Hc75-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="M71a19jI-P9fc4F5Hc75-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Silver" vertex="1">
+          <mxGeometry height="30" width="60" x="375" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Gold" vertex="1">
+          <mxGeometry height="30" width="60" x="375" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Visualization" vertex="1">
+          <mxGeometry height="190" width="110" x="570" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-21" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="18.5" x="720" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="M71a19jI-P9fc4F5Hc75-22" edge="1" parent="1" source="M71a19jI-P9fc4F5Hc75-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" target="M71a19jI-P9fc4F5Hc75-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
